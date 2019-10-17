@@ -17,4 +17,4 @@ def _sum(arr,n):
                 ans = _sum(arr,n) 
                   
                   # display sum 
-                  print (\'Sum of the array is \',ans)
+                  print (\'Sum of the arrray is \',ans)
