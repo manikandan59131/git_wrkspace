@@ -9,7 +9,7 @@ def _sum(arr,n):
             # driver function 
             arr=[] 
             # input values to list 
-            arr = [12, 3, 4, 15] 
+            arr = [12, 3, 4, 25] 
               
               # calculating length of array 
               n = len(arr) 
